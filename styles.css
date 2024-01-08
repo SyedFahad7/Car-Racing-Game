@@ -13,7 +13,7 @@
     }
     .startScreen {
         color: aliceblue;
-    width: 500px;
+    width: 600px;
     height: 107px;
     line-height: 20px;
     position: absolute;
@@ -77,3 +77,6 @@
     position: absolute;
     margin-left: 195px;
     }
+.me{
+    color: rgb(42, 133, 212);
+}    
